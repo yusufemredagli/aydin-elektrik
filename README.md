@@ -35,3 +35,4 @@ Ardından `http://127.0.0.1:8080` adresini açın. PHP'nin dahili geliştirme su
 Adım adım kurulum için `CPANEL-YAYIN-REHBERI.md`, yayın sonrası SEO için `SEO-LAUNCH-CHECKLIST.md` ve `SEO-90-GUN-PLANI.md` dosyalarını kullanın.
 # aydin-elektrik
 # aydin-elektrik
+# aydin-elektrik
